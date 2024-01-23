@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Creating a simple Rock Paper Scissors React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was used to demonstrate my sklls in react state management.
 
 ## Available Scripts
 
